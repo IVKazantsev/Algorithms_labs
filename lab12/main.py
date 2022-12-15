@@ -2,11 +2,7 @@ inp = open("input.txt")
 size = 0  # Исходный размер
 gap = 1  # Шаг деления файла
 count = 0  # Число перенесенных чисел в файл
-countA = 0
-countB = 0
 flag = True  # Флаг для чередования, в какой файл заливать числа
-flagA = True
-flagB = True
 
 while inp.readline():  # Считываем размер файла
     size += 1
@@ -17,90 +13,76 @@ while gap < size:  # Разбиваем файлы на два подфайла
     out1 = open("A.txt", 'w')
     out2 = open("B.txt", 'w')
     count = 0
-    for i in range(size):
+    for i in range(size):  # Записываем из инпута в разные файлы считыванием текущей строки
         line = out.readline()
         count += 1
         if flag:
             out1.write(line)
         else:
             out2.write(line)
-        if count == gap:
+        if count == gap:  # Чередуем файл в зависимости от того, сколько записалось в текущий файл и какой шаг разбиения
             count = 0
             flag = not flag
     out.close()
     out1.close()
     out2.close()
-
+    # Закрываем файлы и меняем местами для чтения и записи, чтобы перезаписать
     inp1 = open("A.txt")
     inp2 = open("B.txt")
-    out = open("input.txt", 'w')  # Меняем их местами, чтобы перезаписать
+    out = open("input.txt", 'w')
 
-    # Пропустил if'ы
     i = 0
     while i < size:  # Проходим по циклу и записываем в файл в зависимости от того, какой у нас шаг
         countA = 0  # Количество записанных в файл вывода чисел из файла inp1
         countB = 0  # Количество записанных в файл вывода чисел из файла inp2
         a = inp1.readline()
         b = inp2.readline()
-        if a.find('\n') <0:
-            a+='\n'
-        if b.find('\n') <0:
-            b+='\n'
-        while countA < gap and flagA and countB < gap and flagB:
-            if b in ['', '\n', '"'] or a in ['', '\n', '"']:
-                break
-            if int(a) < int(b):
-                out.write(str(a))  # Проблема в том, что записывается не следующее число, а это же самое
-                if countA + 1 < gap:
+        if a.find(
+                '\n') < 0:  # Обработка последнего числа, так как в нем нет переноса строки (чтобы оно было в отдельной строке)
+            a += '\n'
+        if b.find('\n') < 0:
+            b += '\n'
+        while countA < gap and countB < gap:  # Пока количество записанных из файлов строк (чисел) меньше шага
+            if b in ['', '\n'] or a in ['', '\n']:
+                break  # Выходим из цикла, если текущие строки - не числа
+            if int(a) < int(b):  # Сравниваем числа для сортировки
+                out.write(str(a))  # Записываем строку, состоящую из числа и переноса строки из A, если она меньше
+                if countA + 1 < gap:  # Идем на следующее число, чтобы при шаге больше 1 у нас не записалось одно число дважды
                     a = inp1.readline()
-                    if a.find('\n') < 0:
+                    if a.find(
+                            '\n') < 0:  # Обработка последнего числа, так как в нем нет переноса строки (чтобы оно было в отдельной строке)
                         a += '\n'
-                if a:
-                    flagA = True
-                else:
-                    flagA = False
-                countA += 1
-            else:
+                countA += 1  # Увеличиваем кол-во считанных чисел из файла A
+            else:  # Делаем то же самое для числа из файла B
                 out.write(str(b))
                 if countB + 1 < gap:
                     b = inp2.readline()
                     if b.find('\n') < 0:
                         b += '\n'
-                if b:
-                    flagB = True
-                else:
-                    flagB = False
                 countB += 1  # countB += 1
 
-        while countA < gap and flagA:
-            if a in ['', '\n']:
+        while countA < gap:  # Обработка отдельно взятого файла A, если файл B не подходит под условия из предыдущего цикла
+            if a in ['', '\n']:  # Выходим из цикла, если текущие строки состоят из пустых массивов, переноса строки
                 break
-            out.write(str(a))
-            if countA+1<gap:
+            out.write(str(a))  # Записываем строку, состоящую из числа и переноса строки из A, если она меньше
+            if countA + 1 < gap:  # Идем на следующее число, чтобы при шаге больше 1 у нас не записалось одно число дважды
                 a = inp1.readline()
-                if a.find('\n') < 0:
+                if a.find(
+                        '\n') < 0:  # Обработка последнего числа, так как в нем нет переноса строки (чтобы оно было в отдельной строке)
                     a += '\n'
-            if a:
-                flagA = True
-            else:
-                flagA = False
             countA += 1  # countA += 1
 
-        while countB < gap and flagB:
+        while countB < gap:  # Делаем то же самое, что и в предыдущем цикле, для числа из файла B
             if b in ['', '\n']:
                 break
             out.write(str(b))
-            if countB+1<gap:
+            if countB + 1 < gap:
                 b = inp2.readline()
                 if b.find('\n') < 0:
                     b += '\n'
-            if b:
-                flagB = True
-            else:
-                flagB = False
             countB += 1
-        i += 2*gap
-    gap *= 2
-    inp1.close()
+        i += 2 * gap  # Увеличиваем итератор для цикла на удвоенный шаг, так как в файл запишется ровно столько чисел
+    gap *= 2  # Увеличиваем шаг для сортировки
+    inp1.close()  # Закрываем все файлы
     inp2.close()
     out.close()
