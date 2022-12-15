@@ -71,7 +71,7 @@ void CLEAR(Elem*& v) {
     v = nullptr;
 }
 
-void NON_REC_PRE(Elem* root)
+void NON_REC_PRE(Elem* root) // Нерекурсивный прямой обход
 {
     std::stack<Elem*> stack; // Стек с элементами со свойствами Elem
     stack.push(root); // Засовываем корень
