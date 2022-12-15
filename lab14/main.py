@@ -1,12 +1,12 @@
 def hashfunc(string):  # Хэш-функция
-    key = 0
+    key = 0 # Определяем ключ
     for i in range(len(string)):
         if string[i] != '\n':
-            key += ord(string[i])
+            key += ord(string[i])  # Ключ будет состоять из суммы всех символов из строки по аски, деленной на 37 целочисленно
     return key // 37
 
 
-class Elem:  # Класс элементов
+class Elem:  # Класс элементов (будут состоять из ключа и значения)
     def __init__(self, key, value):  # Конструктор
         self.key = key
         self.value = value
