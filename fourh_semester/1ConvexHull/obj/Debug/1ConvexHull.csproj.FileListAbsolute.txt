@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\bin\Debug\1ConvexHull.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\bin\Debug\1ConvexHull.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\bin\Debug\1ConvexHull.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\obj\Debug\1ConvexHull.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\obj\Debug\1ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\obj\Debug\1ConvexHull.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\1ConvexHull\obj\Debug\1ConvexHull.pdb
