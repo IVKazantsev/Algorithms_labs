@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\bin\Debug\BFS.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\bin\Debug\BFS.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\bin\Debug\BFS.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\obj\Debug\BFS.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\obj\Debug\BFS.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\obj\Debug\BFS.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\BFS\obj\Debug\BFS.pdb
