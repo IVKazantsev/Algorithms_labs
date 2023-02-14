@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\bin\Debug\3BFS_connectedness.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\bin\Debug\3BFS_connectedness.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\bin\Debug\3BFS_connectedness.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\obj\Debug\3BFS_connectedness.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\obj\Debug\3BFS_connectedness.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\obj\Debug\3BFS_connectedness.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\3BFS_connectedness\obj\Debug\3BFS_connectedness.pdb
