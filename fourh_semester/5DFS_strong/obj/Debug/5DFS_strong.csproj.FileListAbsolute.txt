@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\bin\Debug\5DFS_strong.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\bin\Debug\5DFS_strong.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\bin\Debug\5DFS_strong.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\obj\Debug\5DFS_strong.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\obj\Debug\5DFS_strong.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\obj\Debug\5DFS_strong.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\5DFS_strong\obj\Debug\5DFS_strong.pdb

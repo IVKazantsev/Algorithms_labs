@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\bin\Debug\7Prim.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\bin\Debug\7Prim.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\bin\Debug\7Prim.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\obj\Debug\7Prim.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\obj\Debug\7Prim.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\obj\Debug\7Prim.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\7Prim\obj\Debug\7Prim.pdb

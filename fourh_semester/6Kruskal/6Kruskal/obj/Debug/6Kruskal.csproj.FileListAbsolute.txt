@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\obj\Debug\6Kruskal.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\obj\Debug\6Kruskal.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\bin\Debug\6Kruskal.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\bin\Debug\6Kruskal.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\bin\Debug\6Kruskal.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\obj\Debug\6Kruskal.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\6Kruskal\6Kruskal\obj\Debug\6Kruskal.pdb

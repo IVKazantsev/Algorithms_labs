@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\bin\Debug\8Dijkstra.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\bin\Debug\8Dijkstra.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\bin\Debug\8Dijkstra.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\obj\Debug\8Dijkstra.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\obj\Debug\8Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\obj\Debug\8Dijkstra.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\8Dijkstra\obj\Debug\8Dijkstra.pdb
