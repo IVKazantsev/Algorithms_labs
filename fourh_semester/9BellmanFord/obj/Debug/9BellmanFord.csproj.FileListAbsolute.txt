@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\bin\Debug\9BellmanFord.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\bin\Debug\9BellmanFord.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\bin\Debug\9BellmanFord.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\obj\Debug\9BellmanFord.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\obj\Debug\9BellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\obj\Debug\9BellmanFord.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\9BellmanFord\obj\Debug\9BellmanFord.pdb

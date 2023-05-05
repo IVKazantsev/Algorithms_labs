@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\bin\Debug\12KMP.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\bin\Debug\12KMP.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\bin\Debug\12KMP.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\obj\Debug\12KMP.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\obj\Debug\12KMP.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\obj\Debug\12KMP.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\12KMP\obj\Debug\12KMP.pdb

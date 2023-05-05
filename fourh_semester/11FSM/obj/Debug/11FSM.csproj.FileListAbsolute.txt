@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\bin\Debug\11FSM.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\bin\Debug\11FSM.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\bin\Debug\11FSM.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\obj\Debug\11FSM.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\obj\Debug\11FSM.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\obj\Debug\11FSM.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\11FSM\obj\Debug\11FSM.pdb

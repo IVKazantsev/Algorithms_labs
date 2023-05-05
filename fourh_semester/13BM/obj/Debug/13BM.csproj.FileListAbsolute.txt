@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\bin\Debug\13BM.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\bin\Debug\13BM.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\bin\Debug\13BM.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\obj\Debug\13BM.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\obj\Debug\13BM.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\obj\Debug\13BM.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\13BM\obj\Debug\13BM.pdb
