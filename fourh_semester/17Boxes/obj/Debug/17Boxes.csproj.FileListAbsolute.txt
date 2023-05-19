@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\bin\Debug\17Boxes.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\bin\Debug\17Boxes.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\bin\Debug\17Boxes.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\obj\Debug\17Boxes.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\obj\Debug\17Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\obj\Debug\17Boxes.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\17Boxes\obj\Debug\17Boxes.pdb

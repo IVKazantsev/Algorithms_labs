@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\bin\Debug\16Backpack.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\bin\Debug\16Backpack.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\bin\Debug\16Backpack.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\obj\Debug\16Backpack.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\obj\Debug\16Backpack.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\obj\Debug\16Backpack.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\16Backpack\obj\Debug\16Backpack.pdb

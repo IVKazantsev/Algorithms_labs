@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\bin\Debug\15graphColoring.exe.config
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\bin\Debug\15graphColoring.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\bin\Debug\15graphColoring.pdb
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\obj\Debug\15graphColoring.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\obj\Debug\15graphColoring.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\obj\Debug\15graphColoring.exe
+C:\Users\Honor\Desktop\Lectures\Algorithms\15graphColoring\obj\Debug\15graphColoring.pdb
